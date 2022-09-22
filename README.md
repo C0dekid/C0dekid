@@ -1,4 +1,4 @@
-### Hi there 👋
+Welcome to my Github! Feel free to browse my public repositories. 👋
 
 <!--
 **C0dekid/C0dekid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![alt text](https://discord.c99.nl/widget/theme-3/254669747826851840.png)
